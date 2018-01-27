@@ -24,4 +24,4 @@ Further Read :
 1. Curvature & Center calcuations
 2. Convolution Method
 Video
-https://youtu.be/zQsGUiP_0Nw
+https://youtu.be/gIWZJJ6MLC8
